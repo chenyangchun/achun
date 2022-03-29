@@ -1,2 +1,2 @@
-# achun.github.io
+# achun
 achun的博客
